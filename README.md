@@ -252,7 +252,7 @@ The architecture is designed for easy extension:
 
 ---
 
-## 📄 License
+##  License
 
 © 2026 Janka Nemeth. All rights reserved.
 
