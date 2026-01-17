@@ -8,7 +8,7 @@ A production-grade AI customer support agent built with Python and FastAPI. Feat
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 Deskra is an **offline-first, modular AI support agent** designed to demonstrate production-grade architecture patterns without requiring external API keys or collecting real user data.
 
@@ -22,7 +22,7 @@ Deskra is an **offline-first, modular AI support agent** designed to demonstrate
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                           DESKRA CORE                               │
@@ -53,7 +53,7 @@ Deskra is an **offline-first, modular AI support agent** designed to demonstrate
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 deskra_support_agent/
 ├── app/
@@ -104,7 +104,7 @@ deskra_support_agent/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -186,7 +186,7 @@ Content-Type: application/json
 
 ---
 
-## 🧠 Core Components
+##  Core Components
 
 ### Decision Engine (`core/decision.py`)
 
@@ -216,7 +216,7 @@ Structured Q&A retrieval:
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 Create a `.env` file in the project root:
 ```env
@@ -228,7 +228,7 @@ Configuration is managed via Pydantic Settings (`config/settings.py`).
 
 ---
 
-## 🧪 Testing
+##  Testing
 ```bash
 # Run tests
 pytest app/tests/
@@ -254,7 +254,13 @@ The architecture is designed for easy extension:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📄 License
+
+© 2026 Janka Nemeth. All rights reserved.
+
+This code is provided for portfolio demonstration purposes only. Commercial use, redistribution, or derivative works require written permission from the author.
+
+For licensing inquiries: nemeth.janka777@gmail.com
 
 ---
 
@@ -263,7 +269,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Janka Nemeth**
 
 - GitHub: [@jnemeth-project](https://github.com/jnemeth-project)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/janka-n%C3%A9meth-aa3999163/)
+- LinkedIn: [https://www.linkedin.com/in/janka-n%C3%A9meth-aa3999163/](https://www.linkedin.com/in/janka-n%C3%A9meth-aa3999163/)
 
 ---
 
