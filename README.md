@@ -254,8 +254,6 @@ The architecture is designed for easy extension:
 
 ## 📄 License
 
-## 📄 License
-
 © 2026 Janka Nemeth. All rights reserved.
 
 This code is provided for portfolio demonstration purposes only. Commercial use, redistribution, or derivative works require written permission from the author.
