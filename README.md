@@ -262,7 +262,7 @@ For licensing inquiries: nemeth.janka777@gmail.com
 
 ---
 
-## 👤 Author
+##  Author
 
 **Janka Nemeth**
 
