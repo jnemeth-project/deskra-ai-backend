@@ -13,12 +13,12 @@ A production-grade AI customer support agent built with Python and FastAPI. Feat
 Deskra is an **offline-first, modular AI support agent** designed to demonstrate production-grade architecture patterns without requiring external API keys or collecting real user data.
 
 **Key Features:**
-- 🧠 **Decision Engine** — Routes queries through intent classification and confidence scoring
-- 💾 **Session Memory** — Maintains conversation context across interactions
-- 📚 **Knowledge Base** — Structured Q&A retrieval system
-- 🔌 **Adapter Pattern** — Ready for Jira, Zendesk, and custom integrations
-- 🔒 **Offline-First** — No external APIs required, fully compliant by design
-- 📊 **Audit Logging** — Every interaction logged for analysis and compliance
+-  **Decision Engine** — Routes queries through intent classification and confidence scoring
+-  **Session Memory** — Maintains conversation context across interactions
+-  **Knowledge Base** — Structured Q&A retrieval system
+-  **Adapter Pattern** — Ready for Jira, Zendesk, and custom integrations
+-  **Offline-First** — No external APIs required, fully compliant by design
+-  **Audit Logging** — Every interaction logged for analysis and compliance
 
 ---
 
